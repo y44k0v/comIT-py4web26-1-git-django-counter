@@ -14,5 +14,5 @@ Track changes, add files, commit changes, once the app running create a new bran
 
   4. Switch back to main branch and merge the previous branch.
   5. Take a screenshot of your git log, and the app running.
-  6. Create a markdown file inside your folder, add a title and samll description, include your pictures there.
+  6. Create a markdown file inside your folder, add a title and small description, include your pictures there.
   7. Submit a pull request.
