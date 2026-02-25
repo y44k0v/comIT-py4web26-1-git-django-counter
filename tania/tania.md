@@ -1,7 +1,7 @@
 # My counter Django app
 
 
-![aqua]("tania-counter.png")
+![counter app aqua theme].(tania-counter.png)
 
 
 
