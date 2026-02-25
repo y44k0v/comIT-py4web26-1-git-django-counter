@@ -1,6 +1,6 @@
 # My Counter Django App
 
-![aqua}(aqua.png)
+![aqua](aqua.png)
 ![git log](git log.png)
 
 
