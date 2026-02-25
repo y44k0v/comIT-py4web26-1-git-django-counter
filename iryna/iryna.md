@@ -1,0 +1,1 @@
+# My counter Django app
