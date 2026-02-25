@@ -1,9 +1,9 @@
 # My counter Django app
 
 
-![aqua]("tania-counter.png")
+![aqua](tania-counter.png)
 
 
 
 
-![aqua]("tania/git-log.png")
+![aqua](git-log.png)
