@@ -7,4 +7,4 @@
 2. I updated the buttons to use the **btn-outline** style to match the premium aesthetic.
 ### Project Preview:
 ![Najme Counter App Screenshot](Screenshot.png)
-![changes git](changes.png)
+![changes git](change.png)
